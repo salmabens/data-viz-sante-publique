@@ -30,9 +30,14 @@ Construisez l'image Docker en exécutant la commande suivante :
    ```bash
    docker build -t webapp:latest .
    ```
+Lors de la création de l'image Docker, les dépendances nécessaires seront téléchargées directement.
+
 4. Lancer le conteneur
 
 Exécutez l'application dans un conteneur Docker avec cette commande :
    ```bash
    docker run -p 5007:5007 webapp
    ```
+Cette commande téléchargera les données, les préparera pour l'application et démarrera l'application Streamlit. 
+
+Vous pourrez ensuite y accéder via l'URL externe fournie.
