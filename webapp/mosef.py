@@ -92,7 +92,8 @@ st.markdown("""
     [data-testid="stSidebar"] h1 {
         color: white; 
         font-size: 22px; 
-        font-weight: bold; 
+        font-weight: bold;
+    }
 
     [data-testid="stSidebar"] .stExpander > div > div:first-child {
         font-size: 16px; 
