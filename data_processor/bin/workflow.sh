@@ -1,6 +1,6 @@
 #!/bin/bash
 
-dt=$(date +%Y)
+dt=2024
 
 STAGED_FILE=../../archived/staged/staged_data_$dt.csv
 

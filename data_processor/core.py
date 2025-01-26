@@ -528,7 +528,7 @@ pathologies_level3_short_names = {
 print("Create the folder 'Data'...")
 os.makedirs("../data", exist_ok=True)
 
-current_year = datetime.datetime.now().year
+current_year = 2024
 staged_file_path = f"../archived/staged/staged_data_{current_year}.csv"
 
 # Load the data from the staged_data.csv file

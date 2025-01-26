@@ -1,6 +1,6 @@
 #!/bin/bash
 
-dt=$(date +%Y)
+dt=2024
 FILE=../../raw_data_$dt.csv
 
 if test -f "$FILE"; then
