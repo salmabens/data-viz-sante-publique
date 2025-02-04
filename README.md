@@ -1,11 +1,11 @@
-# Bienvenue sur DataViz Santé Publique 
+# 🩺 Bienvenue sur DataViz Santé Publique 
 
-# Introduction
+# 🌟 Introduction
 
 Notre plateforme offre une exploration détaillée des données actualisées de 2015 à 2022, fournies par l’Assurance Maladie, couvrant un large éventail de pathologies, traitements chroniques et épisodes de soins. Conçue pour répondre aux besoins des mutuelles, professionnels de santé et acteurs engagés dans la gestion des soins et dépenses de santé, elle vous aide à prendre des décisions éclairées.
 
 
-# Installation et Lancement du Projet
+# 🚀 Installation et Lancement du Projet
 1. Cloner le dépôt
 
 Clonez ce projet sur votre machine en exécutant la commande suivante :
